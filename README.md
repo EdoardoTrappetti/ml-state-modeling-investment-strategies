@@ -130,3 +130,25 @@ The main evaluation metrics include:
 - Portfolio Turnover
 
 The strategies are compared with market and no-clustering benchmarks.
+
+## Main Results
+
+The empirical analysis investigates whether macroeconomic information
+
+states contain economically relevant information for dynamic asset
+
+allocation.
+
+The results compare alternative state representations, portfolio
+
+construction methods and levels of model adaptivity, with particular
+
+attention to out-of-sample performance, downside risk, portfolio
+
+concentration and turnover.
+
+Overall, the analysis provides evidence on the extent to which latent
+
+macroeconomic state information can be translated into systematic
+
+portfolio decisions under realistic implementation assumptions.
